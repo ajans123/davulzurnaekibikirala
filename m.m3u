@@ -1,0 +1,442 @@
+#EXTM3U
+#EXTINF:0 group-title="tcsatim",TRT 1
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 group-title="tcsatim",TRT 2
+https://trtcanlitv-lh.akamaihd.net/i/TRT2_1@107981/index_720p_av-b.m3u8
+
+#EXTINF:0 group-title="tcsatim",TRT HABER
+https://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_hd.smil/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",NTV
+https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:0 group-title="tcsatim",ATV
+https://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Kanal D
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Star TV HD
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Show TV
+https://streams.livetv.az/turk/showtv_sd/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Fox TV
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
+
+#EXTINF:0 group-title="tcsatim",BEYAZ TV HD
+https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/chunklist_b2064000.m3u8
+
+#EXTINF:0 group-title="tcsatim",TV 8
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:0 group-title="tcsatim",TV 8.5
+https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Teve2
+https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_hd.smil/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1828000_sltur.m3u8
+#EXTINF:0 group-title="tcsatim",TLC
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:0 group-title="tcsatim",Kemal Sunal TV
+http://sbntv.kesintisizyayin.com:29020/sbntv/sbntv/playlist.m3u8
+#EXTINF:0 group-title="tcsatim",Bein Sports 1
+https://cdn.nsxmedia.net/hlspubx/143.m3u8
+#EXTINF:0 group-title="tcsatim",Bein Sports 2
+http://beout1hd.cf:8080/hls/1.m3u8
+#EXTINF:0 group-title="tcsatim",Olympic TV
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
+#EXTINF:0 group-title="tcsatim",R. Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+#EXTINF:0 group-title="tcsatim",National Geographic
+http://beout1hd.cf:8080/hls/2.m3u8
+#EXTINF:0 group-title="tcsatim",Nat Geo Wild
+http://beout1hd.cf:8080/hls/3.m3u8
+#EXTINF:0 group-title="tcsatim",Discovery Channel
+http://beout1hd.cf:8080/hls/4.m3u8
+#EXTINF:0 group-title="tcsatim",Nasa TV
+http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
+#EXTINF:0 group-title="tcsatim",Earth TV
+https://strm.yandex.ru/kal/worldlife/worldlife0_169_720p.json/index-v1-a1.m3u8?version=2
+#EXTINF:0 group-title="tcsatim",TRT Belgesel
+http://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_hd.smil/chunklist_b2064000.m3u8
+#EXTINF:0 group-title="tcsatim",TRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
+#EXTINF:0 group-title="tcsatim",KANAL 7 HD
+https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/chunklist_b2064000.m3u8
+
+#EXTINF:0 group-title="tcsatim",CNN Türk
+https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_hd.smil/chunklist_b2064000.m3u8
+
+#EXTINF:0 group-title="tcsatim",CNN Türk
+http://streams2.livetv.az/turk/cnn_stream/playlist.m3u8
+#EXTINF:0 group-title="tcsatim",HABER GLOBAL
+https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_hd.smil/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",NTV
+http://api.ntv.com.tr/rss/LiveStream
+
+#EXTINF:0 group-title="tcsatim",Habertürk
+https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_hd.smil/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",24 TV
+https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_hd.smil/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",TGRT Haber
+https://mn-nl.mncdn.com/blutv_tgrthaber/smil:tgrthaber_sd.smil/chunklist_b2064000.m3u8
+
+#EXTINF:0 group-title="tcsatim",TGRT Haber alt3
+http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",TRT HABER alt2
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 group-title="tcsatim",TRT Haber alt3
+https://streams.livetv.az/turk/trt_haber_hd/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",TBMM TV
+http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
+#EXTINF:0 group-title="tcsatim",Sinevid
+http://sinevid.camdvr.org:1935/live/sinevid/playlist.m3u8
+#EXTINF:0 group-title="tcsatim",Loca TV
+http://176.9.31.28:25461/live/sinevid/sinevid4615788/170.m3u8
+#EXTINF:0 group-title="tcsatim",Ülke TV
+https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_hd.smil/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Bloomberg HT
+https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_hd.smil/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Akit TV
+http://akittv-live.ercdn.net/akittv/akittv.m3u8
+
+#EXTINF:0 group-title="tcsatim",DIYALOG TV
+http://yayin3.canlitv.com:1935/live/diyalogtv/iptvdelisi.m3u8
+
+#EXTINF:0 group-title="tcsatim",TRT TÜRK
+https://mn-nl.mncdn.com/blutv_trtturk/trtturk_hd.smil/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",TRT TÜRK
+https://tv-trtturk.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 group-title="tcsatim",Haber 61 TV
+http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/iptvdelisi.m3u8
+
+#EXTINF:0 group-title="tcsatim",Haber Istanbul TV
+http://212.224.109.109/haberistanbul/output/haberistanbul/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",ON Medya Haber
+http://live.arkumedia.com:1935/marmaratv/marmaratv/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",ON4 TV
+http://yayin.netradyom.com:1935/live/on4/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",IBB TV
+http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",IBB TV 2
+http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Meteroloji TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtfgdbkwkjllolive/broadcast_5b1673b7c36b7.smil/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",REHBER TV
+http://rehbertv.canliyayin.org/P871000884/rehbertv/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",TRT WORLD
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+
+#EXTINF:0 group-title="tcsatim",TRT WORLD
+https://mn-nl.mncdn.com/blutv_trtworld/smil:trtworld_hd.smil/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Medya Haber
+http://137.74.205.201/live1/mh-3mbps.m3u8
+
+#EXTINF:0 group-title="tcsatim",Medya Haber alt2
+https://www.karwan1.de/karwan.tv/medya-haber-tv/chunks.m3u8
+
+#EXTINF:0 group-title="tcsatim",Finanstürk TV
+http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",KUDÜS TV
+https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",A Para
+https://mn-nl.mncdn.com/blutv_apara/smil:apara_hd.smil/chunklist_b2064000.m3u8
+
+#EXTINF:0 group-title="tcsatim",YOL TV
+http://stream.yol.tv:9485/medialive/yol.m3u8
+
+#EXTINF:0 group-title="tcsatim",CAN TV
+http://canbroadcast.com:7000/canlican/tv.m3u8
+
+#EXTINF:0 group-title="tcsatim",AA Live
+http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",DHA CANLI
+https://5d8ef5ac99397.streamlock.net/live/smil:dhaweb.smil/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",A Spor
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/chunklist_b2064000.m3u8
+
+#EXTINF:0 group-title="tcsatim",GS TV Galatasaray
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
+
+#EXTINF:0 group-title="tcsatim",TRT SPOR
+https://tv-trtspor1.live.trt.com.tr/master.m3u8
+
+#EXTINF:0 group-title="tcsatim",TRT SPOR 2
+https://tv-trtspor2.live.trt.com.tr/master.m3u8
+
+#EXTINF:0 group-title="tcsatim",Sports TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:0 group-title="tcsatim",Fanatik TV
+https://mn-nl.mncdn.com/fanatik_livestream/smil:fanatik.smil/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Biat TV
+https://5be5d840359c6.streamlock.net/biattv/biattv/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",DIYANET TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",DOST TV
+http://137.74.150.14:8080/permabil/DOSTtv/index.m3u8
+
+#EXTINF:0 group-title="tcsatim",LALEGÜL TV
+http://lalegultv.netmedya.net/hls/lalegultv.m3u8
+
+#EXTINF:0 group-title="tcsatim",SEMERKAND TV
+http://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Mesaj TV
+https://waw2.artiyerelmedya.net/mesajtv/bant1/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Teve2
+https://ocanli1.etvserver.com/live_sd/teve2/chunks.m3u8
+
+#EXTINF:0 group-title="tcsatim",Star TV
+https://streams.livetv.az/turk/star_stream/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",EUROSTAR TV
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Show TV
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",SHOW TURK
+https://mn-nl.mncdn.com/blutv_showturk/showturk_hd.smil/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Euro D
+https://mn-nl.mncdn.com/blutv_eurod/eurod_sd.smil/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",ON4 TV
+http://yayin.netradyom.com:1935/live/on4/playist.m3u8
+
+#EXTINF:0 group-title="tcsatim",A2 TV
+https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",TV EM
+https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",TRT AVAZ
+https://tv-trtavaz.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 group-title="tcsatim",Cartoon Network Türkiye
+https://ocanli1.etvserver.com/live_sd/cartoonnetwork/chunks.m3u8
+
+#EXTINF:0 group-title="tcsatim",Disney Türkiye
+https://ocanli1.etvserver.com/live_sd/disneychannel/chunks.m3u8
+
+#EXTINF:0 group-title="tcsatim",Yeni Malatyaspor TV
+http://5.39.105.79:1935/santraltv_925/santraltv_925/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Briç ve Satranç TV
+http://139.162.182.79/live/test/index.m3u8
+
+#EXTINF:0 group-title="tcsatim",Tay TV
+http://media.netd.com.tr/S1/HLS_LIVE/tay/1000/prog_index.m3u8
+
+#EXTINF:0 group-title="tcsatim",TJK TV
+https://mn-nl.mncdn.com/blutv_tjktv/smil:tjktv_sd.smil/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",TJK TV
+http://tjktv.ercdn.net/tjktv.m3u8
+
+#EXTINF:0 group-title="tcsatim",Çiftçi TV
+https://59cba4d34b678.streamlock.net/canlitv/ciftcitv/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Köy TV
+https://59cba4d34b678.streamlock.net/canlitv/koytv/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",TARIM TV
+https://usd.nocvp.com/asset/7Gx7kEbk/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Yaban TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",MSBC Kanal 2000
+https://59cba4d34b678.streamlock.net/canlitv/kanal-2000/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",AV TV HD
+https://59cba4d34b678.streamlock.net/canlitv/avtv/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",KANAL ORDU
+https://5be5d840359c6.streamlock.net/kanalordutv/kanalordutv/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Cartoon Network Türkiye
+http://streams2.livetv.az/turk/cartoon/chunks.m3u8
+
+#EXTINF:0 group-title="tcsatim",TV 4
+https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",TRT Cocuk
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 group-title="tcsatim",TRT Cocuk alt2
+https://streams.livetv.az/turk/trt_cocuk_hd/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Afyon Türk TV
+https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Almanya*da Türk TV
+http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Brüksel Türk TV
+http://live.arkumedia.com:1935/brukselturktv/brukselturktv/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",DÜGÜN TV ???
+https://586af19f15937.streamlock.net/televizyon-live/_definst_/mp4:DugunTv/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",TURKAY HAS TV
+https://usb.bozztv.com/ssh101/HASTV/HASTV/media.m3u8
+
+#EXTINF:0 group-title="tcsatim",Vizyon TV İsviçre
+https://vizyontv.yayin.com.tr/vizyontv/vizyontv_1080p/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Viyana TV
+http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Elit TV
+http://source2.primetime.ch:2981/play/elittv/index.m3u8
+
+#EXTINF:0 group-title="tcsatim",81 Oray TV Düzce
+http://live.arkumedia.com:1935/81olaytv/81olaytv/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",360 TV (Skytürk)
+http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Ahi TV
+http://yayin3.canlitv.com:1935/canlitv/ahitv/iptvdelisi.m3u8
+
+#EXTINF:0 group-title="tcsatim",AKSU TV
+https://waw2.artiyerelmedya.net/aksutv/bant1/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",ALANYA ATV
+http://stream2.taksimbilisim.com:1935/alanyatv/smil:alanyatv.smil/iptvdelisi.m3u8
+
+#EXTINF:0 group-title="tcsatim",Alanya Posta TV
+http://win4.yayin.com.tr/postatv/postatv/iptvdelisi.m3u8
+
+#EXTINF:0 group-title="tcsatim",Anadolu RTV
+https://broadcasttr.com:446/anadolurtv/bant1/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",ALTAS TV
+http://stream.taksimbilisim.com:1935/altastv/bant1/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Atürk TV
+https://5be5d840359c6.streamlock.net/egeaturktv/egeaturktv/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Belediye TV
+https://5be5d840359c6.streamlock.net/belediyelertv/belediyelertv/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Belediye Gündem TV
+http://46.20.13.51:1935/makinetv/_definst_/makinetv/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Ben TV
+http://kanalben.cubecdn.net/live/kanalben1.m3u8
+
+#EXTINF:0 group-title="tcsatim",Berk TV
+https://59cba4d34b678.streamlock.net/canlitv/berk-tv/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Beşiktaş Belediyesi Web TV
+http://s01.vpis.io/besiktas/besiktas.m3u8
+
+#EXTINF:0 group-title="tcsatim",Bloomberg HT
+https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_hd.smil/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",BLT TURK
+https://waw1.artiyerelmedya.net/bltturk/bant1/playlist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Bodrum Belediyesi Web TV
+https://win2.yayin.com.tr/bodrumbeltv/bodrumbeltv/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Boztepe TV
+http://stream.taksimbilisim.com:1935/btv/bant1/chunklist.m3u8
+
+#EXTINF:0 group-title="tcsatim",Anadolu Hisarı
+https://livestream.ibb.gov.tr/ibb_live/anadoluhisarihq.stream/chunklist_w1996689267.m3u8
+#EXTINF:0 group-title="tcsatim",Eyüp Sultan
+https://livestream.ibb.gov.tr/ibb_live/eyupsultanhq1.stream/chunklist_w1902840519.m3u8
+#EXTINF:0 group-title="tcsatim",Eminönü
+chrome-extension://ckblfoghkjhaclegefojbgllenffajdc/player.html#
+https://livestream.ibb.gov.tr/ibb_live/eminonu2hq1.stream/chunklist_w2081515237.m3u8
+#EXTINF:0 group-title="tcsatim",Beyazıt Kulesi
+https://livestream.ibb.gov.tr/ibb_live/beyazitkulesi1hq.stream/chunklist_w1140815208.m3u8
+#EXTINF:0 group-title="tcsatim",Beyazıt Meydanı
+https://livestream.ibb.gov.tr/ibb_live/beyazitmeydanihq.stream/chunklist_w471208728.m3u8
+#EXTINF:0 group-title="tcsatim",Dragos
+https://livestream.ibb.gov.tr/ibb_live/dragoshq.stream/chunklist_w1776901640.m3u8
+#EXTINF:0 group-title="tcsatim",Emirgan
+https://livestream.ibb.gov.tr/ibb_live/emirganhq.stream/chunklist_w1518919104.m3u8
+#EXTINF:0 group-title="tcsatim",Galata Kulesi
+https://livestream.ibb.gov.tr/ibb_live/galatahq.stream/chunklist_w176482050.m3u8
+#EXTINF:0 group-title="tcsatim",Hidiv Kasrı 1
+https://livestream.ibb.gov.tr/ibb_live/hidivhq.stream/chunklist_w1731446437.m3u8
+#EXTINF:0 group-title="tcsatim",Hidiv Kasrı 2
+https://livestream.ibb.gov.tr/ibb_live/hidiv2hq.stream/chunklist_w869570214.m3u8
+#EXTINF:0 group-title="tcsatim",Kadıköy
+https://livestream.ibb.gov.tr/ibb_live/kadikoyhq.stream/chunklist_w390805962.m3u8
+#EXTINF:0 group-title="tcsatim",Karaköy
+https://livestream.ibb.gov.tr/ibb_live/karakoyhq.stream/chunklist_w1466193407.m3u8
+#EXTINF:0 group-title="tcsatim",Kız Kulesi
+https://livestream.ibb.gov.tr/ibb_live/ibb_live_kiz_kulesihq.stream/chunklist_w2027075505.m3u8
+#EXTINF:0 group-title="tcsatim",Küçük Çamlıca
+https://livestream.ibb.gov.tr/ibb_live/kucukcamlicahq.stream/chunklist_w527770710.m3u8
+#EXTINF:0 group-title="tcsatim",Metrohan
+https://livestream.ibb.gov.tr/ibb_live/metrohanhq.stream/chunklist_w1337083898.m3u8
+#EXTINF:0 group-title="tcsatim",Mısır Çarşısı
+https://livestream.ibb.gov.tr/ibb_live/misircarsisihq.stream/chunklist_w876454062.m3u8
+#EXTINF:0 group-title="tcsatim",Miniaturk
+https://livestream.ibb.gov.tr/ibb_live/miniaturkhq.stream/chunklist_w1111018373.m3u8
+#EXTINF:0 group-title="tcsatim",Pierreloti
+https://livestream.ibb.gov.tr/ibb_live/pierrelotihq.stream/chunklist_w1789833262.m3u8
+#EXTINF:0 group-title="tcsatim",Salacak
+ 
+https://livestream.ibb.gov.tr/ibb_live/salacakhq.stream/chunklist_w1915247263.m3u8
+#EXTINF:0 group-title="tcsatim",Saraçhane
+https://livestream.ibb.gov.tr/ibb_live/sarachane2hq.stream/chunklist_w1306725955.m3u8
+#EXTINF:0 group-title="tcsatim",Sepetçiler Kasrı
+https://livestream.ibb.gov.tr/ibb_live/sepetcilerkasrihq.stream/chunklist_w1157472297.m3u8
+#EXTINF:0 group-title="tcsatim",Sultanahmet
+https://livestream.ibb.gov.tr/ibb_live/sultanahmet2hq.stream/chunklist_w1368115044.m3u8
+#EXTINF:0 group-title="tcsatim",Üsküdar
+https://ls1.ibb.gov.tr/ibb_live/uskudarhq.stream/chunklist_w288907152.m3u8
+#EXTINF:0 group-title="tcsatim",Taksim Meydanı
+https://livestream.ibb.gov.tr/ibb_live/taksimhq.stream/chunklist_w88733119.m3u8
+#EXTINF:0 group-title="tcsatim",Ulus Parkı
+https://livestream.ibb.gov.tr/ibb_live/ulusparkihq.stream/chunklist_w851164488.m3u8
+#EXTINF:0 group-title="tcsatim",İstiklal Caddesi 1
+https://livestream.ibb.gov.tr/ibb_live/istiklalcadhq.stream/chunklist_w723926979.m3u8
+#EXTINF:0 group-title="tcsatim",İstiklal Caddesi 2
+https://livestream.ibb.gov.tr/ibb_live/istiklalcad2hq.stream/chunklist_w1113404839.m3u8
+#EXTINF:0 group-title="tcsatim",Bağdat Caddesi
+https://livestream.ibb.gov.tr/ibb_live/bagdat1hq.stream/chunklist_w139829207.m3u8
+#EXTINF:0 group-title="tcsatim",Bağdat Caddesi 2
+https://livestream.ibb.gov.tr/ibb_live/bagdat2hq.stream/chunklist_w1952780295.m3u8
+#EXTINF:0 group-title="tcsatim",Esenler
+https://ls1.ibb.gov.tr/ibb_live/esenlermeydanhq.stream/chunklist_w2023767261.m3u8
